@@ -1,4 +1,4 @@
-# web-scraping-challenge
+# web-scraping-project
 Web Scraping - Mission to Mars
 
 Step 1 - Scraping
